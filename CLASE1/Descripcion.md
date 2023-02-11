@@ -1,0 +1,26 @@
+# **En esta carpeta se verán los siguientes temas básicos en python:** 
+
+- Algunos tipos de datos en python
+    - int (números enteros)
+        - ejemplos
+            - 1
+            - 3
+            - 100
+    - float (números con punto decimal)
+        - ejemplos
+          - 1.1
+          - 15.7
+          - 11.1831
+    - string (cadenas de texto)
+        - ejemplos
+            - "Hola"
+            - "Este es un saludo"
+            - "Me llamo Carl"
+    - boolean (valores falso y verdadero)
+      - ejemplos
+        - true
+        - false
+- Operaciones con int, float y string
+- Conseguir inputs de usuarios
+- Condiciones If
+- Elaboración de una pequeña calculadora que funcione en consola
