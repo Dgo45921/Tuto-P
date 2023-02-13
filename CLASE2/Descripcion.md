@@ -1,6 +1,7 @@
 # **En esta carpeta se verán los siguientes temas básicos en python:** 
 
 - Ciclos for y while
+- Listas
 - Funciones y métodos
 - Control de flujo de un programa
 - Recursividad
