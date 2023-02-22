@@ -1,3 +1,19 @@
+def acomodar_tareas(k, a):
+    dias_disponibles = 7
+    tareas_faltantes = k
+
+    for i in range(dias_disponibles):
+        if a[i] >= tareas_faltantes:
+            return obtener_dia_semana(i)
+        tareas_faltantes -= a[i]
+
+    return "NO SE PUEDE ACOMODAR"
+
+def obtener_dia_semana(dia):
+    dias_semana = ["LUNES", "MARTES", "MIÉRCOLES", "JUEVES", "VIERNES", "SÁBADO", "DOMINGO"]
+    return dias_semana[dia]
+
+acomodar_tareas(5,a=[0,0,0,0,0,0,0])
 # Tipos de datos básicos
 # Int: números enteros
 # x = 10

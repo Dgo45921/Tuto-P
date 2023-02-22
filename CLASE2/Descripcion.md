@@ -8,4 +8,3 @@
 - Ejercicio propuesto
     - Hacer un menú que se repita infinitas veces hasta que el usuario lo solicite y muestre las siguientes opciones:
       - Hacer multiplicaciones a través de ciclos
-      - Imprimir en pantalla la sucesión de fibonacci a través de recursividad
